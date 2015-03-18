@@ -1,0 +1,1552 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R
+ /F4 5 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F4': class PDFType1Font 
+5 0 obj
+% Font Courier-Oblique
+<< /BaseFont /Courier-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Contents 24 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 23 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+7 0 obj
+% Page dictionary
+<< /Contents 25 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 23 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page3': class PDFPage 
+8 0 obj
+% Page dictionary
+<< /Contents 26 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 23 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page4': class PDFPage 
+9 0 obj
+% Page dictionary
+<< /Contents 27 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 23 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page5': class PDFPage 
+10 0 obj
+% Page dictionary
+<< /Contents 28 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 23 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page6': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Contents 29 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 23 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R12': class PDFCatalog 
+12 0 obj
+% Document Root
+<< /Outlines 14 0 R
+ /PageLabels 30 0 R
+ /PageMode /UseNone
+ /Pages 23 0 R
+ /Type /Catalog >>
+endobj
+% 'R13': class PDFInfo 
+13 0 obj
+<< /Author ()
+ /CreationDate (D:20150318112539-01'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (VPN mit OpenVPN) >>
+endobj
+% 'R14': class PDFOutlines 
+14 0 obj
+<< /Count 9
+ /First 15 0 R
+ /Last 16 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+15 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 711.0236
+ 0 ]
+ /Next 16 0 R
+ /Parent 14 0 R
+ /Title (1. Aufgabenstellung) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+16 0 obj
+<< /Count 6
+ /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 660.0236
+ 0 ]
+ /First 17 0 R
+ /Last 22 0 R
+ /Parent 14 0 R
+ /Prev 15 0 R
+ /Title (2. Implementation) >>
+endobj
+% 'Outline.9.0': class OutlineEntryObject 
+17 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 537.0236
+ 0 ]
+ /Next 18 0 R
+ /Parent 16 0 R
+ /Title (Installation) >>
+endobj
+% 'Outline.9.1': class OutlineEntryObject 
+18 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 417.8236
+ 0 ]
+ /Next 19 0 R
+ /Parent 16 0 R
+ /Prev 17 0 R
+ /Title (Konfiguration) >>
+endobj
+% 'Outline.9.2': class OutlineEntryObject 
+19 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 62.69291
+ 218.2621
+ 0 ]
+ /Next 20 0 R
+ /Parent 16 0 R
+ /Prev 18 0 R
+ /Title (Weitere Schritte) >>
+endobj
+% 'Outline.9.3': class OutlineEntryObject 
+20 0 obj
+<< /Dest [ 9 0 R
+ /XYZ
+ 62.69291
+ 653.8236
+ 0 ]
+ /Next 21 0 R
+ /Parent 16 0 R
+ /Prev 19 0 R
+ /Title (Konfiguration Client) >>
+endobj
+% 'Outline.9.4': class OutlineEntryObject 
+21 0 obj
+<< /Dest [ 10 0 R
+ /XYZ
+ 62.69291
+ 711.0236
+ 0 ]
+ /Next 22 0 R
+ /Parent 16 0 R
+ /Prev 20 0 R
+ /Title (Starten) >>
+endobj
+% 'Outline.9.5': class OutlineEntryObject 
+22 0 obj
+<< /Dest [ 10 0 R
+ /XYZ
+ 62.69291
+ 597.8236
+ 0 ]
+ /Parent 16 0 R
+ /Prev 21 0 R
+ /Title (Testen) >>
+endobj
+% 'R23': class PDFPages 
+23 0 obj
+% page tree
+<< /Count 6
+ /Kids [ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R ]
+ /Type /Pages >>
+endobj
+% 'R24': class PDFStream 
+24 0 obj
+% page stream
+<< /Length 7184 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 723.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 147.7049 0 Td (VPN mit OpenVPN) Tj T* -147.7049 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 690.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (1. Aufgabenstellung) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Es soll OpenVPN aufgesetzt und konfiguriert werden.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (2. Implementation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.350751 Tw (Wir haben uns dazu entschieden, OpenVPN auf Willinger's VPS, basierend auf Debian Wheezy, zu) Tj T* 0 Tw (installieren.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.71152 Tw (Dieser wird in einem Rechenzentrum in Deutschland gehostet und hat eine \366ffentliche IP Adresse:) Tj T* 0 Tw (5.45.97.122.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.02998 Tw (Au\337erdem haben wir vollst\344ndige Root-Rechte, daher wurden die folgenden Schritte auch als root) Tj T* 0 Tw (ausgef\374hrt.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 519.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Installation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 501.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Die Installation ist auf Debian recht einfach:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 467.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (apt-get install openvpn) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 447.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Apt l\344dt damit alle Abh\344ngigkeiten und OpenVPN selbst herunter und installiert diese.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 429.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Nun kann mit der Konfiguration fortgefahren werden.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 399.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Konfiguration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 369.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .274651 Tw (Zuallererst legt man ein neues Verzeichnis in /etc an, um die OpenVPN Konfigurations- dateien und Keys) Tj T* 0 Tw (zu speichern.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 336.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (mkdir -p /etc/openvpn/easy-rsa/) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 316.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Im n\344chsten Schritt muss easy-rsa selbst kopiert werden:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 259.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 12.75 228 12 re f*
+.960784 .960784 .862745 rg
+n 0 .75 12 12 re f*
+BT 1 0 0 1 0 26 Tm 12 TL /F3 10 Tf 0 0 0 rg (cp -R /usr/share/doc/openvpn/examples/easy-rsa/2.0/* /etc/openvpn/easy-rsa/) Tj T* /F4 10 Tf .25098 .501961 .501961 rg (# In das easy-rsa Verzeichnis wechseln) Tj T* /F3 10 Tf 0 .501961 0 rg (cd) Tj 0 0 0 rg ( /etc/openvpn/easy-rsa/) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 239.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Und die vars Datei bearbeitet werden.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 221.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Diese beinhaltet die Variablen, die bei der Key/CA-Erstellung verwendet werden.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 188.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (vi vars) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 95.02362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 84 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 60.75 42 12 re f*
+.960784 .960784 .862745 rg
+n 42 60.75 66 12 re f*
+.960784 .960784 .862745 rg
+n 108 60.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 114 60.75 24 12 re f*
+.960784 .960784 .862745 rg
+n 0 48.75 42 12 re f*
+.960784 .960784 .862745 rg
+n 42 48.75 72 12 re f*
+.960784 .960784 .862745 rg
+n 114 48.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 120 48.75 48 12 re f*
+.960784 .960784 .862745 rg
+n 0 36.75 42 12 re f*
+.960784 .960784 .862745 rg
+n 42 36.75 48 12 re f*
+.960784 .960784 .862745 rg
+n 90 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 36.75 114 12 re f*
+.960784 .960784 .862745 rg
+n 0 24.75 42 12 re f*
+.960784 .960784 .862745 rg
+n 42 24.75 42 12 re f*
+.960784 .960784 .862745 rg
+n 84 24.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 90 24.75 42 12 re f*
+.960784 .960784 .862745 rg
+n 0 12.75 42 12 re f*
+.960784 .960784 .862745 rg
+n 42 12.75 54 12 re f*
+.960784 .960784 .862745 rg
+n 96 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 12.75 84 12 re f*
+.960784 .960784 .862745 rg
+n 0 .75 42 12 re f*
+.960784 .960784 .862745 rg
+n 42 .75 36 12 re f*
+.960784 .960784 .862745 rg
+n 78 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 84 .75 84 12 re f*
+BT 1 0 0 1 0 62 Tm 12 TL /F3 10 Tf 0 .501961 0 rg (export ) Tj .098039 .090196 .486275 rg (KEY_COUNTRY) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("DE") Tj 0 0 0 rg  T* 0 .501961 0 rg (export ) Tj .098039 .090196 .486275 rg (KEY_PROVINCE) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("Hessen") Tj 0 0 0 rg  T* 0 .501961 0 rg (export ) Tj .098039 .090196 .486275 rg (KEY_CITY) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("Frankfurt am Main") Tj 0 0 0 rg  T* 0 .501961 0 rg (export ) Tj .098039 .090196 .486275 rg (KEY_ORG) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("MyORG") Tj 0 0 0 rg  T* 0 .501961 0 rg (export ) Tj .098039 .090196 .486275 rg (KEY_EMAIL) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("awi95@gmx.at") Tj 0 0 0 rg  T* 0 .501961 0 rg (export ) Tj .098039 .090196 .486275 rg (KEY_CN) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("vpn.f-o-g.eu") Tj 0 0 0 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 56.69291 767.1969 cm
+1 1 1 rg
+n 0 18 481.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (VPN mit OpenVPN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 145.2126 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Andreas Willinger, Jakob Klepp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 359.3858 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2015-03-18) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 139.2126 0 m 139.2126 18 l S
+n 353.3858 0 m 353.3858 18 l S
+n 0 18 m 481.8898 18 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 18 l S
+n 481.8898 0 m 481.8898 18 l S
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 231.2149 0 Td (1 / 6) Tj T* -231.2149 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R25': class PDFStream 
+25 0 obj
+% page stream
+<< /Length 6414 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 709.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 12.75 42 12 re f*
+.960784 .960784 .862745 rg
+n 42 12.75 48 12 re f*
+.960784 .960784 .862745 rg
+n 90 12.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 12.75 12 12 re f*
+.960784 .960784 .862745 rg
+n 0 .75 42 12 re f*
+.960784 .960784 .862745 rg
+n 42 .75 36 12 re f*
+.960784 .960784 .862745 rg
+n 78 .75 6 12 re f*
+.960784 .960784 .862745 rg
+n 84 .75 12 12 re f*
+BT 1 0 0 1 0 14 Tm 12 TL /F3 10 Tf 0 .501961 0 rg (export ) Tj .098039 .090196 .486275 rg (KEY_NAME) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("") Tj 0 0 0 rg  T* 0 .501961 0 rg (export ) Tj .098039 .090196 .486275 rg (KEY_OU) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("") Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 689.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Speichern und im folgenden, die Datei "sourcen" und die CA \(Certificate Authority\) erzeugen.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 608.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 72 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 48.75 54 12 re f*
+.960784 .960784 .862745 rg
+n 0 12.75 78 12 re f*
+BT 1 0 0 1 0 50 Tm 12 TL /F4 10 Tf .25098 .501961 .501961 rg (# Sourcen) Tj T* /F3 10 Tf 0 0 0 rg (. ./vars) Tj T* (./clean-all) Tj T* /F4 10 Tf .25098 .501961 .501961 rg (# CA erzeugen) Tj T* /F3 10 Tf 0 0 0 rg (./build-ca) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 576.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .209398 Tw (Dort kann man alle Werte auf Standard lassen, da diese sowieso aus der vars Datei, siehe oben, gelesen) Tj T* 0 Tw (werden.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 546.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .128651 Tw (Lediglich der Common Name sollte, falls n\366tig, angepasst werden \(in unserem Fall haben wir auch diesen) Tj T* 0 Tw (in der vars gesetzt\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 528.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Jetzt kann der Server Key erzeugt werden:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 495.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (./build-key-server vpn.f-o-g.eu) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 463.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.08748 Tw (Hier auch den Common Name anpassen \(wobei dieser von dem Aufrufparameter \374bernommen werden) Tj T* 0 Tw (sollte\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 445.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Beide Fragen \(Sign/Commit\) mit yes beantworten.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 415.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.017318 Tw (Im Anschluss noch den Key f\374r einen Client erzeugen. Diesen Befehl muss man f\374r jeden Client) Tj T* 0 Tw (ausf\374hren, dem man VPN Zugriff geben will.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 397.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Logischerweise muss man den Parameter/CN anpassen.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 364.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (./build-key client1) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 344.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Hier die Daten des Clients eintragen und CN \374bernehmen.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 326.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Zum Schluss muss noch der Diffie-Helmann \(DH\) Key erzeugt werden.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 281.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 12.75 156 12 re f*
+BT 1 0 0 1 0 14 Tm 12 TL /F4 10 Tf .25098 .501961 .501961 rg (# Erfordert keine Eingaben) Tj T* /F3 10 Tf 0 0 0 rg (./build-dh) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 261.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Der folgende Schritt ist nicht zwingend, aber wir wollten alle Keys auf einem Ort haben.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 179.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 72 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 48.75 282 12 re f*
+BT 1 0 0 1 0 50 Tm 12 TL /F4 10 Tf .25098 .501961 .501961 rg (# Kopiert alle Key Dateien in /etc/openvpn/keys) Tj T* /F3 10 Tf 0 0 0 rg (mkdir /etc/openvpn/keys) Tj T* (cp ./keys/*.crt /etc/openvpn/keys) Tj T* (cp ./keys/*.key /etc/openvpn/keys) Tj T* (cp ./keys/*.pem /etc/opnevpn/keys) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 147.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .957674 Tw (Der Server selbst braucht auch noch eine Konfigurationsdatei, diese wird server.conf genannt und sieht) Tj T* 0 Tw (bei uns wie folgt aus:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 102.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 12.75 12 12 re f*
+BT 1 0 0 1 0 14 Tm 12 TL /F3 10 Tf 0 .501961 0 rg (cd) Tj 0 0 0 rg ( ..) Tj T* (vi server.conf) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 56.69291 767.1969 cm
+1 1 1 rg
+n 0 18 481.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (VPN mit OpenVPN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 145.2126 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Andreas Willinger, Jakob Klepp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 359.3858 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2015-03-18) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 139.2126 0 m 139.2126 18 l S
+n 353.3858 0 m 353.3858 18 l S
+n 0 18 m 481.8898 18 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 18 l S
+n 481.8898 0 m 481.8898 18 l S
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 231.2149 0 Td (2 / 6) Tj T* -231.2149 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R26': class PDFStream 
+26 0 obj
+% page stream
+<< /Length 6083 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 230.2621 cm
+q
+q
+.976496 0 0 .976496 0 0 cm
+q
+1 0 0 1 6.6 6.758862 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 480 528 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 504.75 270 12 re f*
+.960784 .960784 .862745 rg
+n 0 492.75 36 12 re f*
+.960784 .960784 .862745 rg
+n 0 468.75 150 12 re f*
+.960784 .960784 .862745 rg
+n 0 444.75 108 12 re f*
+.960784 .960784 .862745 rg
+n 0 420.75 372 12 re f*
+.960784 .960784 .862745 rg
+n 162 384.75 198 12 re f*
+.960784 .960784 .862745 rg
+n 0 360.75 282 12 re f*
+.960784 .960784 .862745 rg
+n 0 336.75 162 12 re f*
+.960784 .960784 .862745 rg
+n 0 324.75 324 12 re f*
+.960784 .960784 .862745 rg
+n 30 300.75 150 12 re f*
+.960784 .960784 .862745 rg
+n 30 288.75 150 12 re f*
+.960784 .960784 .862745 rg
+n 0 276.75 360 12 re f*
+.960784 .960784 .862745 rg
+n 0 264.75 186 12 re f*
+.960784 .960784 .862745 rg
+n 30 252.75 210 12 re f*
+.960784 .960784 .862745 rg
+n 0 240.75 270 12 re f*
+.960784 .960784 .862745 rg
+n 0 204.75 150 12 re f*
+.960784 .960784 .862745 rg
+n 0 180.75 144 12 re f*
+.960784 .960784 .862745 rg
+n 0 144.75 312 12 re f*
+.960784 .960784 .862745 rg
+n 0 108.75 468 12 re f*
+.960784 .960784 .862745 rg
+n 0 96.75 102 12 re f*
+.960784 .960784 .862745 rg
+n 0 84.75 348 12 re f*
+.960784 .960784 .862745 rg
+n 0 60.75 408 12 re f*
+.960784 .960784 .862745 rg
+n 0 36.75 96 12 re f*
+BT 1 0 0 1 0 506 Tm 12 TL /F4 10 Tf .25098 .501961 .501961 rg (# IP Adresse auf der der Server lauschen soll) Tj T* /F3 10 Tf 0 .501961 0 rg (local ) Tj 0 0 0 rg (5.45.97.122) Tj T* (port 1194) Tj T* /F4 10 Tf .25098 .501961 .501961 rg (# Kann auch TCP verwenden) Tj T* /F3 10 Tf 0 0 0 rg (proto udp) Tj T* /F4 10 Tf .25098 .501961 .501961 rg (# Bridged Netzwerk) Tj T* /F3 10 Tf 0 0 0 rg (dev tap) Tj T* /F4 10 Tf .25098 .501961 .501961 rg (# Pfade zu den Keys definieren \(von build-ca/build-key-server\)) Tj T* /F3 10 Tf 0 0 0 rg (ca keys/ca.crt) Tj T* (cert keys/vpn.f-o-g.eu.crt) Tj T* (key keys/vpn.f-o-g.eu.key  ) Tj /F4 10 Tf .25098 .501961 .501961 rg (# This file should be kept secret) Tj T* /F3 10 Tf 0 0 0 rg (dh keys/dh2048.pem) Tj T* /F4 10 Tf .25098 .501961 .501961 rg (# Server vergibt an Client 10.8.0.0/24 Adressen) Tj T* /F3 10 Tf 0 0 0 rg (server 10.8.0.0 255.255.255.0) Tj T* /F4 10 Tf .25098 .501961 .501961 rg (# Nicht unbedingt notwendig) Tj T* (# Sorgt daf\374r, dass Clients immer dieselbe IP erhalten) Tj T* /F3 10 Tf 0 0 0 rg (ifconfig-pool-persist ipp.txt) Tj T* (push ) Tj .729412 .129412 .129412 rg ("dhcp-option DNS 8.8.8.8") Tj 0 0 0 rg  T* (push ) Tj .729412 .129412 .129412 rg ("dhcp-option DNS 8.8.4.4") Tj 0 0 0 rg  T* /F4 10 Tf .25098 .501961 .501961 rg (# Wird ben\366tigt, um den gesamten Internetverkehr von Clients) Tj T* (# \374ber den VPN tunnel zu routen) Tj T* /F3 10 Tf 0 0 0 rg (push ) Tj .729412 .129412 .129412 rg ("redirect-gateway def1 bypass-dhcp") Tj 0 0 0 rg  T* /F4 10 Tf .25098 .501961 .501961 rg (# Clients k\366nnen sich untereinander erreichen) Tj T* /F3 10 Tf 0 0 0 rg (client-to-client) Tj T* (keepalive 10 120) Tj T* /F4 10 Tf .25098 .501961 .501961 rg (# Art der Verschl\374sselung) Tj T* /F3 10 Tf 0 0 0 rg (cipher AES-256-CBC) Tj T* /F4 10 Tf .25098 .501961 .501961 rg (# Kompression aktivieren) Tj T* /F3 10 Tf 0 0 0 rg (comp-lzo) Tj T* (max-clients 100) Tj T* /F4 10 Tf .25098 .501961 .501961 rg (# OpenVPN server als Rechte-loser Benutzer ausf\374hren) Tj T* /F3 10 Tf 0 0 0 rg (user nobody) Tj T* (group nogroup) Tj T* /F4 10 Tf .25098 .501961 .501961 rg (# Erlaubt neustarts mit SIGUSR1 Signalen, wenn \(wie oben zu sehen\) user nobody) Tj T* (# verwendet wird.) Tj T* (# Es persisiert dazu die Keys \374ber server neustarts hinweg) Tj T* /F3 10 Tf 0 0 0 rg (persist-key) Tj T* /F4 10 Tf .25098 .501961 .501961 rg (# TUN/TAP Device nicht neustarten wenn SIGUSR1 Signal ausgel\366st wird) Tj T* /F3 10 Tf 0 0 0 rg (persist-tun) Tj T* /F4 10 Tf .25098 .501961 .501961 rg (# Status logging) Tj T* /F3 10 Tf 0 0 0 rg (status openvpn-status.log) Tj T* (log /var/log/openvpn.log) Tj T* (verb 3) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 200.2621 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Weitere Schritte) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 170.2621 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.84498 Tw (Damit Clients auch Internetzugriff haben, muss noch IP Forwarding eingeschaltet werden und eine) Tj T* 0 Tw (Firewall Regel hinzugef\374gt werden.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 89.06206 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 72 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 48.75 180 12 re f*
+.960784 .960784 .862745 rg
+n 0 36.75 30 12 re f*
+.960784 .960784 .862745 rg
+n 0 24.75 300 12 re f*
+.960784 .960784 .862745 rg
+n 0 .75 186 12 re f*
+BT 1 0 0 1 0 50 Tm 12 TL /F4 10 Tf .25098 .501961 .501961 rg (# Forwarding sofort aktivieren) Tj T* /F3 10 Tf 0 .501961 0 rg (echo ) Tj 0 0 0 rg (1 ) Tj (>) Tj ( /proc/sys/net/ipv4/ip_forward) Tj T* /F4 10 Tf .25098 .501961 .501961 rg (# Forwarding auch nach Server neustart einschalten) Tj T* /F3 10 Tf 0 0 0 rg (vi /etc/sysctl.conf) Tj T* /F4 10 Tf .25098 .501961 .501961 rg (# Dort folgende Zeile anpassen:) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 56.69291 767.1969 cm
+1 1 1 rg
+n 0 18 481.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (VPN mit OpenVPN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 145.2126 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Andreas Willinger, Jakob Klepp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 359.3858 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2015-03-18) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 139.2126 0 m 139.2126 18 l S
+n 353.3858 0 m 353.3858 18 l S
+n 0 18 m 481.8898 18 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 18 l S
+n 481.8898 0 m 481.8898 18 l S
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 231.2149 0 Td (3 / 6) Tj T* -231.2149 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R27': class PDFStream 
+27 0 obj
+% page stream
+<< /Length 3979 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 685.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 114 36.75 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 12.75 96 12 re f*
+BT 1 0 0 1 0 38 Tm 12 TL /F3 10 Tf 0 0 0 rg (net.ipv4.ip_forward) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (1) Tj T*  T* /F4 10 Tf .25098 .501961 .501961 rg (# Firewall Regel) Tj T* /F3 10 Tf 0 0 0 rg (iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 665.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Die Konfiguration des Servers ist damit abgeschlossen.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 635.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Konfiguration Client) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 617.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Auf Client-Seite kann unter Windows die OpenVPN GUI verwendet werden.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 587.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.634418 Tw (Diese speichert ihre Konfigurationsdateien in C:Program FilesOpenVPNconfig \(vorausgesetzt, man hat) Tj T* 0 Tw (den Installationspfad nicht ge\344ndert\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 557.8236 cm
+q
+BT 1 0 0 1 0 14 Tm 8.006342 Tw 12 TL /F1 10 Tf 0 0 0 rg (Vom Server m\374ssen die Dateien ca.crt, client1.key, client1.crt kopiert werden und eine) Tj T* 0 Tw (<) Tj (Verbindungsname) Tj (>) Tj (.ovpn Datei erzeugt werden.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 539.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (In unserem Fall, FoG VPN.ovpn, mit folgendem Inhalt:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 98.62362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 432 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 408.75 336 12 re f*
+.960784 .960784 .862745 rg
+n 0 372.75 144 12 re f*
+.960784 .960784 .862745 rg
+n 0 324.75 156 12 re f*
+.960784 .960784 .862745 rg
+n 0 168.75 198 12 re f*
+.960784 .960784 .862745 rg
+n 0 24.75 390 12 re f*
+BT 1 0 0 1 0 410 Tm 12 TL /F4 10 Tf .25098 .501961 .501961 rg (# Gibt an, dass diese Konfiguration f\374r einen Client ist) Tj T* /F3 10 Tf 0 0 0 rg (client) Tj T*  T* /F4 10 Tf .25098 .501961 .501961 rg (# IP/Hostname vom Server) Tj T* /F3 10 Tf 0 0 0 rg (remote 5.45.97.122 1194) Tj T* (proto udp) Tj T*  T* /F4 10 Tf .25098 .501961 .501961 rg (# Pfad zu den Zertifikaten) Tj T* /F3 10 Tf 0 0 0 rg (ca ca.crt) Tj T* (cert client1.crt) Tj T* (key client1.key) Tj T* (ns-cert-type server) Tj T* (cipher AES-256-CBC) Tj T*  T* (dev tap) Tj T*  T* (resolv-retry infinite) Tj T*  T* (nobind) Tj T*  T* /F4 10 Tf .25098 .501961 .501961 rg (# Bedeuten dasselbe wie am Server) Tj T* /F3 10 Tf 0 0 0 rg (persist-key) Tj T* (persist-tun) Tj T* (user nobody) Tj T* (group nogroup) Tj T*  T* (comp-lzo) Tj T*  T* (verb 4) Tj T*  T* (mute 20) Tj T*  T* /F4 10 Tf .25098 .501961 .501961 rg (# Damit der DNS gesetzt werden kann \(und diverse andere Optionen\)) Tj T* /F3 10 Tf 0 0 0 rg (pull dhcp-options) Tj T* (status openvpn-status.log) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 56.69291 767.1969 cm
+1 1 1 rg
+n 0 18 481.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (VPN mit OpenVPN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 145.2126 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Andreas Willinger, Jakob Klepp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 359.3858 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2015-03-18) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 139.2126 0 m 139.2126 18 l S
+n 353.3858 0 m 353.3858 18 l S
+n 0 18 m 481.8898 18 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 18 l S
+n 481.8898 0 m 481.8898 18 l S
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 231.2149 0 Td (4 / 6) Tj T* -231.2149 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R28': class PDFStream 
+28 0 obj
+% page stream
+<< /Length 13140 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 723.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.218443 Tw (Wichtig: unter Windows MUSS die OpenVPN GUI als Administrator gestartet werden. Ansonsten ist es) Tj T* 0 Tw (nicht m\366glich, das tunneling ordentlich einzurichten.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Starten) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Unter Debian kann OpenVPN mittels "service" gestartet werden.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 641.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (service openvpn start) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 609.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .888555 Tw (Clients brauchen nun nur noch ihre Zertifikate und eine Client Konfiguration. Siehe dazu Abschnitt nach) Tj T* 0 Tw (Client Key Generierung oben.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 579.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Testen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 561.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Client log:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 198.7868 cm
+q
+q
+.335827 0 0 .335827 0 0 cm
+q
+1 0 0 1 6.6 19.65295 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 1398 1056 re B*
+Q
+q
+BT 1 0 0 1 0 1034 Tm 12 TL /F3 10 Tf 0 0 0 rg (Wed Mar 18 11:20:03 2015 NOTE: --user option is not implemented on Windows) Tj T* (Wed Mar 18 11:20:03 2015 NOTE: --group option is not implemented on Windows) Tj T* (Wed Mar 18 11:20:03 2015 Current Parameter Settings:) Tj T* (Wed Mar 18 11:20:03 2015   config = 'FoG VPN.ovpn') Tj T* (Wed Mar 18 11:20:03 2015   mode = 0) Tj T* (Wed Mar 18 11:20:03 2015   show_ciphers = DISABLED) Tj T* (Wed Mar 18 11:20:03 2015   show_digests = DISABLED) Tj T* (Wed Mar 18 11:20:03 2015   show_engines = DISABLED) Tj T* (Wed Mar 18 11:20:03 2015   genkey = DISABLED) Tj T* (Wed Mar 18 11:20:03 2015   key_pass_file = '[UNDEF]') Tj T* (Wed Mar 18 11:20:03 2015   show_tls_ciphers = DISABLED) Tj T* (Wed Mar 18 11:20:03 2015 Connection profiles [default]:) Tj T* (Wed Mar 18 11:20:03 2015   proto = udp) Tj T* (Wed Mar 18 11:20:03 2015   local = '[UNDEF]') Tj T* (Wed Mar 18 11:20:03 2015   local_port = 0) Tj T* (Wed Mar 18 11:20:03 2015   remote = '5.45.97.122') Tj T* (Wed Mar 18 11:20:03 2015   remote_port = 1194) Tj T* (Wed Mar 18 11:20:03 2015   remote_float = DISABLED) Tj T* (Wed Mar 18 11:20:03 2015   bind_defined = DISABLED) Tj T* (Wed Mar 18 11:20:03 2015   bind_local = DISABLED) Tj T* (Wed Mar 18 11:20:03 2015   connect_retry_seconds = 5) Tj T* (Wed Mar 18 11:20:03 2015   connect_timeout = 10) Tj T* (Wed Mar 18 11:20:03 2015 NOTE: --mute triggered...) Tj T* (Wed Mar 18 11:20:03 2015 265 variation\(s\) on previous 20 message\(s\) suppressed by --mute) Tj T* (Wed Mar 18 11:20:03 2015 OpenVPN 2.3.6 x86_64-w64-mingw32 [SSL \(OpenSSL\)] [LZO] [PKCS11] [IPv6] built on Dec  1 2014) Tj T* (Wed Mar 18 11:20:03 2015 library versions: OpenSSL 1.0.1j 15 Oct 2014, LZO 2.08) Tj T* (Wed Mar 18 11:20:03 2015 MANAGEMENT: TCP Socket listening on [AF_INET]127.0.0.1:25340) Tj T* (Wed Mar 18 11:20:03 2015 Need hold release from management interface, waiting...) Tj T* (Wed Mar 18 11:20:04 2015 MANAGEMENT: Client connected from [AF_INET]127.0.0.1:25340) Tj T* (Wed Mar 18 11:20:04 2015 MANAGEMENT: CMD 'state on') Tj T* (Wed Mar 18 11:20:04 2015 MANAGEMENT: CMD 'log all on') Tj T* (Wed Mar 18 11:20:04 2015 MANAGEMENT: CMD 'hold off') Tj T* (Wed Mar 18 11:20:04 2015 MANAGEMENT: CMD 'hold release') Tj T* (Wed Mar 18 11:20:04 2015 LZO compression initialized) Tj T* (Wed Mar 18 11:20:04 2015 Control Channel MTU parms [ L:1590 D:138 EF:38 EB:0 ET:0 EL:0 ]) Tj T* (Wed Mar 18 11:20:04 2015 Socket Buffers: R=[8192-) Tj (>) Tj (8192] S=[8192-) Tj (>) Tj (8192]) Tj T* (Wed Mar 18 11:20:04 2015 Data Channel MTU parms [ L:1590 D:1450 EF:58 EB:135 ET:32 EL:0 AF:3/1 ]) Tj T* (Wed Mar 18 11:20:04 2015 Local Options String: 'V4,dev-type tap,link-mtu 1590,tun-mtu 1532,proto UDPv4,comp-lzo,cipher AES-256-CBC,auth SHA1,keysize 256,key-method 2,tls-client') Tj T* (Wed Mar 18 11:20:04 2015 Expected Remote Options String: 'V4,dev-type tap,link-mtu 1590,tun-mtu 1532,proto UDPv4,comp-lzo,cipher AES-256-CBC,auth SHA1,keysize 256,key-method 2,tls-server') Tj T* (Wed Mar 18 11:20:04 2015 Local Options hash \(VER=V4\): 'c6c7c21a') Tj T* (Wed Mar 18 11:20:04 2015 Expected Remote Options hash \(VER=V4\): '1a6d5c5d') Tj T* (Wed Mar 18 11:20:04 2015 UDPv4 link local: [undef]) Tj T* (Wed Mar 18 11:20:04 2015 UDPv4 link remote: [AF_INET]5.45.97.122:1194) Tj T* (Wed Mar 18 11:20:04 2015 MANAGEMENT: ) Tj (>) Tj (STATE:1426674004,WAIT,,,) Tj T* (Wed Mar 18 11:20:04 2015 MANAGEMENT: ) Tj (>) Tj (STATE:1426674004,AUTH,,,) Tj T* (Wed Mar 18 11:20:04 2015 TLS: Initial packet from [AF_INET]5.45.97.122:1194, sid=edb66dc8 d05ac84c) Tj T* (Wed Mar 18 11:20:05 2015 VERIFY OK: depth=1, C=DE, ST=Hessen, L=Frankfurt am Main, O=Fortress of Gamers, CN=vpn.f-o-g.eu, emailAddress=awi95@gmx.at) Tj T* (Wed Mar 18 11:20:05 2015 VERIFY OK: nsCertType=SERVER) Tj T* (Wed Mar 18 11:20:05 2015 VERIFY OK: depth=0, C=DE, ST=Hessen, L=Frankfurt am Main, O=Fortress of Gamers, CN=vpn.f-o-g.eu, emailAddress=awi95@gmx.at) Tj T* (Wed Mar 18 11:20:05 2015 Data Channel Encrypt: Cipher 'AES-256-CBC' initialized with 256 bit key) Tj T* (Wed Mar 18 11:20:05 2015 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication) Tj T* (Wed Mar 18 11:20:05 2015 Data Channel Decrypt: Cipher 'AES-256-CBC' initialized with 256 bit key) Tj T* (Wed Mar 18 11:20:05 2015 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication) Tj T* (Wed Mar 18 11:20:05 2015 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 2048 bit RSA) Tj T* (Wed Mar 18 11:20:05 2015 [vpn.f-o-g.eu] Peer Connection Initiated with [AF_INET]5.45.97.122:1194) Tj T* (Wed Mar 18 11:20:06 2015 MANAGEMENT: ) Tj (>) Tj (STATE:1426674006,GET_CONFIG,,,) Tj T* (Wed Mar 18 11:20:07 2015 SENT CONTROL [vpn.f-o-g.eu]: 'PUSH_REQUEST' \(status=1\)) Tj T* (Wed Mar 18 11:20:07 2015 PUSH: Received control message: 'PUSH_REPLY,dhcp-option DNS 8.8.8.8,dhcp-option DNS 8.8.4.4,redirect-gateway def1 bypass-dhcp,route-gateway 10.8.0.1,ping 10,ping-restart 120,ifconfig 10.8.0.4 255.255.255.0') Tj T* (Wed Mar 18 11:20:07 2015 OPTIONS IMPORT: timers and/or timeouts modified) Tj T* (Wed Mar 18 11:20:07 2015 OPTIONS IMPORT: --ifconfig/up options modified) Tj T* (Wed Mar 18 11:20:07 2015 OPTIONS IMPORT: route options modified) Tj T* (Wed Mar 18 11:20:07 2015 OPTIONS IMPORT: route-related options modified) Tj T* (Wed Mar 18 11:20:07 2015 OPTIONS IMPORT: --ip-win32 and/or --dhcp-option options modified) Tj T* (Wed Mar 18 11:20:07 2015 do_ifconfig, tt-) Tj (>) Tj (ipv6=0, tt-) Tj (>) Tj (did_ifconfig_ipv6_setup=0) Tj T* (Wed Mar 18 11:20:07 2015 MANAGEMENT: ) Tj (>) Tj (STATE:1426674007,ASSIGN_IP,,10.8.0.4,) Tj T* (Wed Mar 18 11:20:07 2015 open_tun, tt-) Tj (>) Tj (ipv6=0) Tj T* (Wed Mar 18 11:20:07 2015 TAP-WIN32 device [LAN-Verbindung 2] opened: \\\\.\\Global\\{DD57EE48-0710-46F4-9052-CA8DD6752A50}.tap) Tj T* (Wed Mar 18 11:20:07 2015 TAP-Windows Driver Version 9.21) Tj T* (Wed Mar 18 11:20:07 2015 TAP-Windows MTU=1500) Tj T* (Wed Mar 18 11:20:07 2015 Notified TAP-Windows driver to set a DHCP IP/netmask of 10.8.0.4/255.255.255.0 on interface {DD57EE48-0710-46F4-9052-CA8DD6752A50} [DHCP-serv: 10.8.0.0, lease-time: 31536000]) Tj T* (Wed Mar 18 11:20:07 2015 DHCP option string: 06080808 08080808 0404) Tj T* (Wed Mar 18 11:20:07 2015 Successful ARP Flush on interface [38] {DD57EE48-0710-46F4-9052-CA8DD6752A50}) Tj T* (Wed Mar 18 11:20:12 2015 TEST ROUTES: 1/1 succeeded len=0 ret=1 a=0 u/d=up) Tj T* (Wed Mar 18 11:20:12 2015 C:\\Windows\\system32\\route.exe ADD 5.45.97.122 MASK 255.255.255.255 10.0.100.1) Tj T* (Wed Mar 18 11:20:12 2015 ROUTE: CreateIpForwardEntry succeeded with dwForwardMetric1=10 and dwForwardType=4) Tj T* (Wed Mar 18 11:20:12 2015 Route addition via IPAPI succeeded [adaptive]) Tj T* (Wed Mar 18 11:20:12 2015 C:\\Windows\\system32\\route.exe ADD 10.2.24.153 MASK 255.255.255.255 10.0.100.1) Tj T* (Wed Mar 18 11:20:12 2015 ROUTE: CreateIpForwardEntry succeeded with dwForwardMetric1=10 and dwForwardType=4) Tj T* (Wed Mar 18 11:20:12 2015 Route addition via IPAPI succeeded [adaptive]) Tj T* (Wed Mar 18 11:20:12 2015 C:\\Windows\\system32\\route.exe ADD 0.0.0.0 MASK 128.0.0.0 10.8.0.1) Tj T* (Wed Mar 18 11:20:12 2015 ROUTE: CreateIpForwardEntry succeeded with dwForwardMetric1=20 and dwForwardType=4) Tj T* (Wed Mar 18 11:20:12 2015 Route addition via IPAPI succeeded [adaptive]) Tj T* (Wed Mar 18 11:20:12 2015 C:\\Windows\\system32\\route.exe ADD 128.0.0.0 MASK 128.0.0.0 10.8.0.1) Tj T* (Wed Mar 18 11:20:12 2015 ROUTE: CreateIpForwardEntry succeeded with dwForwardMetric1=20 and dwForwardType=4) Tj T* (Wed Mar 18 11:20:12 2015 Route addition via IPAPI succeeded [adaptive]) Tj T* (Wed Mar 18 11:20:12 2015 Initialization Sequence Completed) Tj T* (Wed Mar 18 11:20:12 2015 MANAGEMENT: ) Tj (>) Tj (STATE:1426674012,CONNECTED,SUCCESS,10.8.0.4,5.45.97.122) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 178.7868 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Server log:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 94.48586 cm
+q
+q
+.287711 0 0 .287711 0 0 cm
+q
+1 0 0 1 6.6 22.93968 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 1632 264 re B*
+Q
+q
+BT 1 0 0 1 0 242 Tm 12 TL /F3 10 Tf 0 0 0 rg (Wed Mar 18 11:19:57 2015 MULTI: multi_create_instance called) Tj T* (Wed Mar 18 11:19:57 2015 84.114.180.113:5119 Re-using SSL/TLS context) Tj T* (Wed Mar 18 11:19:57 2015 84.114.180.113:5119 LZO compression initialized) Tj T* (Wed Mar 18 11:19:57 2015 84.114.180.113:5119 Control Channel MTU parms [ L:1590 D:138 EF:38 EB:0 ET:0 EL:0 ]) Tj T* (Wed Mar 18 11:19:57 2015 84.114.180.113:5119 Data Channel MTU parms [ L:1590 D:1450 EF:58 EB:135 ET:32 EL:0 AF:3/1 ]) Tj T* (Wed Mar 18 11:19:57 2015 84.114.180.113:5119 Local Options hash \(VER=V4\): '1a6d5c5d') Tj T* (Wed Mar 18 11:19:57 2015 84.114.180.113:5119 Expected Remote Options hash \(VER=V4\): 'c6c7c21a') Tj T* (Wed Mar 18 11:19:57 2015 84.114.180.113:5119 TLS: Initial packet from [AF_INET]84.114.180.113:5119, sid=8bcd9a90 4e20c046) Tj T* (Wed Mar 18 11:19:57 2015 84.114.180.113:5119 VERIFY OK: depth=1, /C=DE/ST=Hessen/L=Frankfurt_am_Main/O=Fortress_of_Gamers/CN=vpn.f-o-g.eu/emailAddress=awi95@gmx.at) Tj T* (Wed Mar 18 11:19:57 2015 84.114.180.113:5119 VERIFY OK: depth=0, /C=AT/ST=Wien/L=Wien/O=Fortress_of_Gamers/CN=1337-Laptop/emailAddress=awi95@gmx.at) Tj T* (Wed Mar 18 11:19:57 2015 84.114.180.113:5119 Data Channel Encrypt: Cipher 'AES-256-CBC' initialized with 256 bit key) Tj T* (Wed Mar 18 11:19:57 2015 84.114.180.113:5119 Data Channel Encrypt: Using 160 bit message hash 'SHA1' for HMAC authentication) Tj T* (Wed Mar 18 11:19:57 2015 84.114.180.113:5119 Data Channel Decrypt: Cipher 'AES-256-CBC' initialized with 256 bit key) Tj T* (Wed Mar 18 11:19:57 2015 84.114.180.113:5119 Data Channel Decrypt: Using 160 bit message hash 'SHA1' for HMAC authentication) Tj T* (Wed Mar 18 11:19:57 2015 84.114.180.113:5119 Control Channel: TLSv1, cipher TLSv1/SSLv3 DHE-RSA-AES256-SHA, 2048 bit RSA) Tj T* (Wed Mar 18 11:19:57 2015 84.114.180.113:5119 [1337-Laptop] Peer Connection Initiated with [AF_INET]84.114.180.113:5119) Tj T* (Wed Mar 18 11:19:57 2015 1337-Laptop/84.114.180.113:5119 MULTI_sva: pool returned IPv4=10.8.0.4, IPv6=1::1f00:0:c37f:0) Tj T* (Wed Mar 18 11:20:00 2015 1337-Laptop/84.114.180.113:5119 PUSH: Received control message: 'PUSH_REQUEST') Tj T* (Wed Mar 18 11:20:00 2015 1337-Laptop/84.114.180.113:5119 send_push_reply\(\): safe_cap=960) Tj T* (Wed Mar 18 11:20:00 2015 1337-Laptop/84.114.180.113:5119 SENT CONTROL [1337-Laptop]: 'PUSH_REPLY,dhcp-option DNS 8.8.8.8,dhcp-option DNS 8.8.4.4,redirect-gateway def1 bypass-dhcp,route-gateway 10.8.0.1,ping 10,ping-restart 120,ifconfig 10.8.0.4 255.255.255.0' \(status=1\)) Tj T* (Wed Mar 18 11:20:00 2015 1337-Laptop/84.114.180.113:5119 MULTI: Learn: 00:ff:dd:57:ee:48 -) Tj (>) Tj ( 1337-Laptop/84.114.180.113:5119) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 56.69291 767.1969 cm
+1 1 1 rg
+n 0 18 481.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (VPN mit OpenVPN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 145.2126 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Andreas Willinger, Jakob Klepp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 359.3858 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2015-03-18) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 139.2126 0 m 139.2126 18 l S
+n 353.3858 0 m 353.3858 18 l S
+n 0 18 m 481.8898 18 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 18 l S
+n 481.8898 0 m 481.8898 18 l S
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 231.2149 0 Td (5 / 6) Tj T* -231.2149 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R29': class PDFStream 
+29 0 obj
+% page stream
+<< /Length 839 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+Q
+q
+1 0 0 1 56.69291 767.1969 cm
+1 1 1 rg
+n 0 18 481.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (VPN mit OpenVPN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 145.2126 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Andreas Willinger, Jakob Klepp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 359.3858 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2015-03-18) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 139.2126 0 m 139.2126 18 l S
+n 353.3858 0 m 353.3858 18 l S
+n 0 18 m 481.8898 18 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 18 l S
+n 481.8898 0 m 481.8898 18 l S
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 231.2149 0 Td (6 / 6) Tj T* -231.2149 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R30': class PDFPageLabels 
+30 0 obj
+% Document Root
+<< /Nums [ 0
+ 31 0 R
+ 1
+ 32 0 R
+ 2
+ 33 0 R
+ 3
+ 34 0 R
+ 4
+ 35 0 R
+ 5
+ 36 0 R ] >>
+endobj
+% 'R31': class PDFPageLabel 
+31 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R32': class PDFPageLabel 
+32 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R33': class PDFPageLabel 
+33 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R34': class PDFPageLabel 
+34 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R35': class PDFPageLabel 
+35 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R36': class PDFPageLabel 
+36 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+xref
+0 37
+0000000000 65535 f
+0000000113 00000 n
+0000000245 00000 n
+0000000410 00000 n
+0000000585 00000 n
+0000000746 00000 n
+0000000921 00000 n
+0000001200 00000 n
+0000001479 00000 n
+0000001758 00000 n
+0000002037 00000 n
+0000002317 00000 n
+0000002598 00000 n
+0000002757 00000 n
+0000003020 00000 n
+0000003145 00000 n
+0000003324 00000 n
+0000003545 00000 n
+0000003719 00000 n
+0000003909 00000 n
+0000004102 00000 n
+0000004299 00000 n
+0000004484 00000 n
+0000004635 00000 n
+0000004784 00000 n
+0000012067 00000 n
+0000018580 00000 n
+0000024762 00000 n
+0000028840 00000 n
+0000042080 00000 n
+0000043021 00000 n
+0000043179 00000 n
+0000043256 00000 n
+0000043333 00000 n
+0000043410 00000 n
+0000043487 00000 n
+0000043564 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\372iT\367\304z9\2034a\217]c-^\362) (\372iT\367\304z9\2034a\217]c-^\362)] 
+
+ /Info 13 0 R
+ /Root 12 0 R
+ /Size 37 >>
+startxref
+43611
+%%EOF
